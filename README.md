@@ -1,10 +1,3 @@
-# GoFynd Ecommerce Interview Challenge Solution.
-## TIMING : ONE HOUR
-
-Deployed at https://testappone353.herokuapp.com/imdb/
-
-Challenge:
-
 Here is a task we would like you to do -
 
 Create a RESTful API to search for movies(something similar to IMDB). For this we would like you to use:
